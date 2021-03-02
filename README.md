@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... a [starter kit](https://github.com/kevinmichaelchen/go-dgraph-starter) that bridges a lot of cool tools: Golang, gRPC, GraphQL, Dgraph, Redis, NextJS, React, Chakra-UI...
+- 🔭 I’m currently working on ... a CRUD API+UI [starter kit](https://github.com/kevinmichaelchen/go-dgraph-starter) that bridges a lot of cool tools I've picked up over the years: Golang, gRPC, GraphQL, Dgraph, Redis, NextJS, React, Apollo, Chakra-UI, and more...
 - 🌱 I’m currently learning ... how to use [Dgraph](https://dgraph.io/)!
 - 📫 How to reach me: ... [Twitter](https://twitter.com/kevinmchen), [LinkedIn](https://www.linkedin.com/in/kevinchen93/)
 - 😄 Pronouns: he/him
