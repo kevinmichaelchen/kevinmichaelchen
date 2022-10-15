@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... 
-- 🔨 I'm a fan of ... Golang, gRPC, GraphQL, NextJS, React.
-- 🌱 I’m currently interested in ... learning more about [Tailwind](https://tailwindcss.com/), [AstroJS](https://astro.build/), [Excalidraw](http://excalidraw.com), [Deno](https://deno.land/), [Temporal](https://temporal.io/), and other exciting technologies!
+- 🔭 I’m currently drinking tea ... 
+- 🔨 I'm a fan of ... Golang, gRPC, GraphQL, NextJS, React. And [Temporal](https://temporal.io/).
+- 🌱 I’m currently interested in ... learning more about [Tailwind](https://tailwindcss.com/) and [AstroJS](https://astro.build/) for the frontend, perfecting my [Excalidraw](http://excalidraw.com) abilities, and exploring more [Temporal](https://temporal.io/) use cases.
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/kevinchen93/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ... squirrels pretend to bury nuts to throw off potential thieves in an act called "deceptive caching."
