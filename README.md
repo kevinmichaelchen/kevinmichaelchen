@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently drinking tea ... 
+- 🔭 I’m currently drinking [tea](https://tea.xyz/) ... 
 - 🔨 I'm a fan of ... Golang, gRPC, GraphQL, NextJS, React. And [Temporal](https://temporal.io/).
 - 🌱 I’m currently interested in ... learning more about [Tailwind](https://tailwindcss.com/) and [AstroJS](https://astro.build/) for the frontend, perfecting my [Excalidraw](http://excalidraw.com) abilities, and exploring more [Temporal](https://temporal.io/) use cases.
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/kevinchen93/)
