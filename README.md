@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently drinking [tea](https://tea.xyz/) ... 
-- 🔨 I'm a fan of ... Golang, gRPC, GraphQL, NextJS, React. And [Temporal](https://temporal.io/).
+- 🔨 I'm a fan of ... Golang, gRPC, GraphQL, NextJS, React … as well as [Temporal](https://temporal.io/), [Atlas](https://atlasgo.io/), and [(Proto)Buf](https://buf.build/) … all of which I’ve explored in my [**“K4 Stack”**](https://kevinmichaelchen.github.io/temporal-saga-grpc/tech-stack/overview/) demo project.
 - 🌱 I’m currently interested in ... learning more about [Tailwind](https://tailwindcss.com/) and [AstroJS](https://astro.build/) for the frontend, perfecting my [Excalidraw](http://excalidraw.com) abilities, and exploring more [Temporal](https://temporal.io/) use cases.
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/kevinchen93/)
 - 😄 Pronouns: he/him
