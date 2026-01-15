@@ -1,55 +1,39 @@
 ### Hi, I'm Kevin
 
-Staff engineer who likes building things — from developer tools and distributed systems to game dev and agentic programming.
+Staff engineer building developer tools, distributed systems, and games.
 
----
+> Keeping up with agents and agentic software engineering.
 
-#### Currently Building
+### Current Projects
 
-[`helix-tools`](https://github.com/kevinmichaelchen/helix-tools) — Rust-based tooling for the Helix editor, exploring agentic programming and AI-assisted development workflows.
+- 📦 **[repo-archiver](https://github.com/kevinmichaelchen/repo-archiver)** - Rust TUI for archiving GitHub repositories
+- 🔧 **[helix-tools](https://github.com/kevinmichaelchen/helix-tools)** - Rust tooling for the Helix editor, AI-assisted development workflows
+- 🔍 **[perplexity-opencode](https://github.com/kevinmichaelchen/perplexity-opencode)** - OpenCode plugin for Perplexity AI web search
+- 🎬 **[movie-effect](https://github.com/kevinmichaelchen/movie-effect)** / **[book-effect](https://github.com/kevinmichaelchen/book-effect)** - Effect-powered API SDKs
+- 🗺️ **[geohints](https://github.com/kevinmichaelchen/geohints)** - GeoGuessr hints/clues built with Qwik
+- 🏠 **[dotfiles](https://github.com/kevinmichaelchen/dotfiles)** - Nix/Home-Manager + Chezmoi
 
-`majesty` — Rust/Bevy remake of "Majesty: Fantasy Kingdom Sim," the 2000s fantasy role-playing game.
+### Demos
 
----
+- 🔤 **[cel-typescript](https://github.com/kevinmichaelchen/cel-typescript)** - TypeScript bindings for CEL via Rust + NAPI
+- 🔄 **[pg-sequin-cdc-demo](https://github.com/kevinmichaelchen/pg-sequin-cdc-demo)** - CDC with Postgres, Sequin, Meilisearch
+- 🌐 **[materialized-translations-poc](https://github.com/kevinmichaelchen/materialized-translations-poc)** - Real-time materialized views for i18n
+- 🔀 **[buf-vanguard-rest](https://github.com/kevinmichaelchen/buf-vanguard-rest)** - GraphQL, REST, gRPC from Protobuf
 
-#### The Journey
+<details>
+<summary>Legacy</summary>
 
-**Go Era (2018–2023)** — Backend services, CLI tools, and the Hasura ecosystem
-- [`temporal-saga-grpc`](https://github.com/kevinmichaelchen/temporal-saga-grpc) — Distributed sagas with Temporal + gRPC microservices
-- [`graphql-schema-picker`](https://github.com/kevinmichaelchen/graphql-schema-picker) — CLI to extract sub-schemas from GraphQL SDL
-- [`permissura`](https://github.com/kevinmichaelchen/permissura) / [`tokesura`](https://github.com/kevinmichaelchen/tokesura) — Hasura permission & JWT tooling
-- [`buf-vanguard-rest`](https://github.com/kevinmichaelchen/buf-vanguard-rest) — GraphQL, REST, gRPC from a single Protobuf source
+- ⚡ **[temporal-saga-grpc](https://github.com/kevinmichaelchen/temporal-saga-grpc)** - Distributed sagas with Temporal + gRPC
+- 📐 **[graphql-schema-picker](https://github.com/kevinmichaelchen/graphql-schema-picker)** - Extract sub-schemas from GraphQL SDL
+- 🔐 **[permissura](https://github.com/kevinmichaelchen/permissura)** / **[tokesura](https://github.com/kevinmichaelchen/tokesura)** - Hasura permission & JWT tooling
+- 🌲 **[cedar-agent-go-sdk](https://github.com/kevinmichaelchen/cedar-agent-go-sdk)** - Go SDK for Cedar authorization
+- 📬 **[react-email-server](https://github.com/kevinmichaelchen/react-email-server)** - gRPC API for React Email templates
+- 🗺️ **[api-dispatch](https://github.com/kevinmichaelchen/api-dispatch)** - Traffic-aware dispatch server
+- 🚀 **[api-go-template](https://github.com/kevinmichaelchen/api-go-template)** - Bootstrap a Go + gRPC + Buf repo
+- 📊 **[go-dgraph-starter](https://github.com/kevinmichaelchen/go-dgraph-starter)** - gRPC, GraphQL, Dgraph, Redis, NextJS
+- 📺 **[roku_cli](https://github.com/kevinmichaelchen/roku_cli)** - Rust CLI for controlling Roku TV
 
-**TypeScript Era (2024)** — Full-stack serverless, modern tooling
-- [`sst-monorepo-template`](https://github.com/kevinmichaelchen/sst-monorepo-template) — SST v3 monorepo starter with Turborepo
-- [`cel-typescript`](https://github.com/kevinmichaelchen/cel-typescript) — TypeScript bindings for Common Expression Language
-- [`geohints`](https://github.com/kevinmichaelchen/geohints) — GeoGuessr hints/clues built with Qwik
-- [`materialized-translations-poc`](https://github.com/kevinmichaelchen/materialized-translations-poc) — Real-time materialized views for i18n strings
-
-**Effect Era (2025)** — Typed errors, dependency injection, and functional programming
-- [`movie-effect`](https://github.com/kevinmichaelchen/movie-effect) / [`book-effect`](https://github.com/kevinmichaelchen/book-effect) — Effect-powered API SDKs
-- [`alchemy-effect`](https://github.com/kevinmichaelchen/alchemy-effect) — Infrastructure-as-Effects
-
----
-
-#### Tools & Frameworks I've Explored
-
-| Category | Tools |
-|----------|-------|
-| **Backend** | Go, gRPC, Connect, Temporal, Hasura, GraphQL |
-| **TypeScript** | Effect, Hono, SST, Kysely, Drizzle |
-| **Frontend** | Qwik, AstroJS, TanStack |
-| **Authorization** | Cedar, Oso, Permit.io, CEL |
-| **Data** | Postgres, Atlas, CDC (Sequin), Materialized Views |
-| **DevEx** | Nix, Chezmoi, Buf, Protobuf |
-
----
-
-#### Also Exploring
-
-- **Effect-TS** for typed errors + dependency injection
-- **Nix** for reproducible dev environments ([`dotfiles`](https://github.com/kevinmichaelchen/dotfiles))
-- **CDC pipelines** with Postgres + Sequin ([`pg-sequin-cdc-demo`](https://github.com/kevinmichaelchen/pg-sequin-cdc-demo))
+</details>
 
 ---
 
