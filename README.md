@@ -7,11 +7,18 @@ Staff engineer building developer tools, distributed systems, and games.
 ### Current Projects
 
 - 📦 **[repo-archiver](https://github.com/kevinmichaelchen/repo-archiver)** - Rust TUI for archiving GitHub repositories
+- 🔃 **[repo-syncer](https://github.com/kevinmichaelchen/repo-syncer)** - Rust TUI for syncing GitHub forks with upstream
 - 🔧 **[helix-tools](https://github.com/kevinmichaelchen/helix-tools)** - Rust tooling for the Helix editor, AI-assisted development workflows
 - 🔍 **[perplexity-opencode](https://github.com/kevinmichaelchen/perplexity-opencode)** - OpenCode plugin for Perplexity AI web search
 - 🎬 **[movie-effect](https://github.com/kevinmichaelchen/movie-effect)** / **[book-effect](https://github.com/kevinmichaelchen/book-effect)** - Effect-powered API SDKs
 - 🗺️ **[geohints](https://github.com/kevinmichaelchen/geohints)** - GeoGuessr hints/clues built with Qwik
 - 🏠 **[dotfiles](https://github.com/kevinmichaelchen/dotfiles)** - Nix/Home-Manager + Chezmoi
+
+### Upcoming
+
+- 👑 **Majesty Rewrite** - Classic RTS reimagined in Rust/Bevy
+- 🏋️ **CrossFit WOD AI** - AI-powered workout database and recommender
+- 🏢 **Gym Management** - AI-powered gym management software
 
 ### Demos
 
