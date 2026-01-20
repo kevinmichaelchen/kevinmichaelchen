@@ -8,7 +8,7 @@ Staff engineer building developer tools, distributed systems, and games.
 
 - 📦 **[repo-archiver](https://github.com/kevinmichaelchen/repo-archiver)** - Rust TUI for archiving GitHub repositories
 - 🔃 **[repo-syncer](https://github.com/kevinmichaelchen/repo-syncer)** - Rust TUI for syncing GitHub forks with upstream
-- 🔧 **[helix-tools](https://github.com/kevinmichaelchen/helix-tools)** - Rust tooling for the Helix editor, AI-assisted development workflows
+- 🧵 **[ixchel](https://github.com/kevinmichaelchen/ixchel)** - Context graphs for agentic workflows, named after the Mayan goddess of weaving
 - 🔍 **[perplexity-opencode](https://github.com/kevinmichaelchen/perplexity-opencode)** - OpenCode plugin for Perplexity AI web search
 - 🎬 **[movie-effect](https://github.com/kevinmichaelchen/movie-effect)** / **[book-effect](https://github.com/kevinmichaelchen/book-effect)** - Effect-powered API SDKs
 - 🗺️ **[geohints](https://github.com/kevinmichaelchen/geohints)** - GeoGuessr hints/clues built with Qwik
