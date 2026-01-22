@@ -6,6 +6,7 @@ Staff engineer building developer tools, distributed systems, and games.
 
 ### Current Projects
 
+- 📊 **[usage](https://github.com/kevinmichaelchen/usage)** - Track and visualize API usage metrics
 - 📦 **[repo-archiver](https://github.com/kevinmichaelchen/repo-archiver)** - Rust TUI for archiving GitHub repositories
 - 🔃 **[repo-syncer](https://github.com/kevinmichaelchen/repo-syncer)** - Rust TUI for syncing GitHub forks with upstream
 - 🧵 **[ixchel](https://github.com/kevinmichaelchen/ixchel)** - Context graphs for agentic workflows, named after the Mayan goddess of weaving
