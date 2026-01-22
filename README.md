@@ -12,6 +12,7 @@ Staff engineer building developer tools, distributed systems, and games.
 - 🔍 **[perplexity-opencode](https://github.com/kevinmichaelchen/perplexity-opencode)** - OpenCode plugin for Perplexity AI web search
 - 🎬 **[movie-effect](https://github.com/kevinmichaelchen/movie-effect)** / **[book-effect](https://github.com/kevinmichaelchen/book-effect)** - Effect-powered API SDKs
 - 🗺️ **[geohints](https://github.com/kevinmichaelchen/geohints)** - GeoGuessr hints/clues built with Qwik
+- 📚 **[tufte-typst](https://github.com/kevinmichaelchen/tufte-typst)** - Typst template inspired by Edward Tufte's elegant book designs
 - 🏠 **[dotfiles](https://github.com/kevinmichaelchen/dotfiles)** - Nix/Home-Manager + Chezmoi
 
 ### Upcoming
