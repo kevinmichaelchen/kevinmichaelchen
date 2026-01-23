@@ -12,6 +12,7 @@ Staff engineer building developer tools, distributed systems, and games.
 | 📦 **[repo-archiver]**                    | Rust TUI for archiving GitHub repositories                                     |
 | 🔃 **[repo-syncer]**                      | Rust TUI for syncing GitHub forks with upstream                                |
 | 🧵 **[ixchel]**                           | Context graphs for agentic workflows, named after the Mayan goddess of weaving |
+| 🔔 **[agent-chime]**                      | TTS notifications for agentic CLI workflows on macOS                           |
 | 🔍 **[perplexity-opencode]**              | OpenCode plugin for Perplexity AI web search                                   |
 | 🎬 **[movie-effect]** / **[book-effect]** | Effect-powered API SDKs                                                        |
 | 🗺️ **[geohints]**                         | GeoGuessr hints/clues built with Qwik                                          |
@@ -58,6 +59,7 @@ Staff engineer building developer tools, distributed systems, and games.
 
 <!-- Reference links -->
 
+[agent-chime]: https://github.com/kevinmichaelchen/agent-chime
 [usage]: https://github.com/kevinmichaelchen/usage
 [repo-archiver]: https://github.com/kevinmichaelchen/repo-archiver
 [repo-syncer]: https://github.com/kevinmichaelchen/repo-syncer
