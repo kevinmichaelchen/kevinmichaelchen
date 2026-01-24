@@ -9,6 +9,7 @@ Staff engineer building developer tools, distributed systems, and games.
 | Project                                   | Description                                                                    |
 | ----------------------------------------- | ------------------------------------------------------------------------------ |
 | 🔔 **[agent-chime]**                      | TTS notifications for agentic CLI workflows on macOS                           |
+| 📄 **[pageindex-rs]**                     | Vectorless RAG with hierarchical tree indices for PDFs/Markdown                |
 | 🧮 **[usage]**                            | LLM usage dashboard (Codex + Claude)                                           |
 | 📦 **[repo-archiver]**                    | Rust TUI for archiving GitHub repositories                                     |
 | 🔃 **[repo-syncer]**                      | Rust TUI for syncing GitHub forks with upstream                                |
@@ -60,6 +61,7 @@ Staff engineer building developer tools, distributed systems, and games.
 <!-- Reference links -->
 
 [agent-chime]: https://github.com/kevinmichaelchen/agent-chime
+[pageindex-rs]: https://github.com/kevinmichaelchen/pageindex-rs
 [usage]: https://github.com/kevinmichaelchen/usage
 [repo-archiver]: https://github.com/kevinmichaelchen/repo-archiver
 [repo-syncer]: https://github.com/kevinmichaelchen/repo-syncer
