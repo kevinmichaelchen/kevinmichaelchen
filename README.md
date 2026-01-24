@@ -8,6 +8,7 @@ Staff engineer building developer tools, distributed systems, and games.
 
 | Project                                   | Description                                                                    |
 | ----------------------------------------- | ------------------------------------------------------------------------------ |
+| 🎬 **[subtitles]**                        | Crash-safe Rust pipeline for multi-language subtitle generation                |
 | 🔔 **[agent-chime]**                      | TTS notifications for agentic CLI workflows on macOS                           |
 | 📄 **[pageindex-rs]**                     | Vectorless RAG with hierarchical tree indices for PDFs/Markdown                |
 | 🧮 **[usage]**                            | LLM usage dashboard (Codex + Claude)                                           |
@@ -60,6 +61,7 @@ Staff engineer building developer tools, distributed systems, and games.
 
 <!-- Reference links -->
 
+[subtitles]: https://github.com/kevinmichaelchen/subtitles
 [agent-chime]: https://github.com/kevinmichaelchen/agent-chime
 [pageindex-rs]: https://github.com/kevinmichaelchen/pageindex-rs
 [usage]: https://github.com/kevinmichaelchen/usage
