@@ -10,6 +10,7 @@ Staff engineer building developer tools, distributed systems, and games.
 | ----------------------------------------- | ------------------------------------------------------------------------------ |
 | 🎬 **[subtitles]**                        | Crash-safe Rust pipeline for multi-language subtitle generation                |
 | 🔔 **[agent-chime]**                      | TTS notifications for agentic CLI workflows on macOS                           |
+| 🏛️ **[agent-republic]**                   | Agent-first democratic orchestration for autonomous software agents            |
 | 📄 **[pageindex-rs]**                     | Vectorless RAG with hierarchical tree indices for PDFs/Markdown                |
 | 🧮 **[usage]**                            | LLM usage dashboard (Codex + Claude)                                           |
 | 📦 **[repo-archiver]**                    | Rust TUI for archiving GitHub repositories                                     |
@@ -63,6 +64,7 @@ Staff engineer building developer tools, distributed systems, and games.
 
 [subtitles]: https://github.com/kevinmichaelchen/subtitles
 [agent-chime]: https://github.com/kevinmichaelchen/agent-chime
+[agent-republic]: https://github.com/kevinmichaelchen/agent-republic
 [pageindex-rs]: https://github.com/kevinmichaelchen/pageindex-rs
 [usage]: https://github.com/kevinmichaelchen/usage
 [repo-archiver]: https://github.com/kevinmichaelchen/repo-archiver
