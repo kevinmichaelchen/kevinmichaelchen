@@ -6,21 +6,23 @@ Staff engineer building developer tools, distributed systems, and games.
 
 ### Current Projects
 
-| Project                                   | Description                                                                    |
-| ----------------------------------------- | ------------------------------------------------------------------------------ |
-| 🎬 **[subtitles]**                        | Crash-safe Rust pipeline for multi-language subtitle generation                |
-| 🔔 **[agent-chime]**                      | TTS notifications for agentic CLI workflows on macOS                           |
-| 🏛️ **[agent-republic]**                   | Agent-first democratic orchestration for autonomous software agents            |
-| 📄 **[pageindex-rs]**                     | Vectorless RAG with hierarchical tree indices for PDFs/Markdown                |
-| 🧮 **[usage]**                            | LLM usage dashboard (Codex + Claude)                                           |
-| 📦 **[repo-archiver]**                    | Rust TUI for archiving GitHub repositories                                     |
-| 🔃 **[repo-syncer]**                      | Rust TUI for syncing GitHub forks with upstream                                |
-| 🧵 **[ixchel]**                           | Context graphs for agentic workflows, named after the Mayan goddess of weaving |
-| 🔍 **[perplexity-opencode]**              | OpenCode plugin for Perplexity AI web search                                   |
-| 🎬 **[movie-effect]** / **[book-effect]** | Effect-powered API SDKs                                                        |
-| 🗺️ **[geohints]**                         | GeoGuessr hints/clues built with Qwik                                          |
-| 📚 **[tufte-typst]**                      | Typst template inspired by Edward Tufte's elegant book designs                 |
-| 🏠 **[dotfiles]**                         | Nix/Home-Manager + Chezmoi                                                     |
+| Project                                                                        | Description                                                                    |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| 🎬 **[subtitles]**                                                             | Crash-safe Rust pipeline for multi-language subtitle generation                |
+| 🐦 **[bird-rs]**                                                               | Fast X/Twitter CLI for reading and syncing tweets                              |
+| 🎨 **[replicate-images]**                                                      | CLI for generating images from text prompts using Replicate                    |
+| 🔔 **[agent-chime]** / **[agent-chime-rs]** / **[agent-chime-voicepack-spec]** | Audible notifications for agentic CLI workflows                                |
+| 🏛️ **[agent-republic]**                                                        | Agent-first democratic orchestration for autonomous software agents            |
+| 📄 **[pageindex-rs]**                                                          | Vectorless RAG with hierarchical tree indices for PDFs/Markdown                |
+| 🧮 **[usage]**                                                                 | LLM usage dashboard (Codex + Claude)                                           |
+| 📦 **[repo-archiver]**                                                         | Rust TUI for archiving GitHub repositories                                     |
+| 🔃 **[repo-syncer]**                                                           | Rust TUI for syncing GitHub forks with upstream                                |
+| 🧵 **[ixchel]**                                                                | Context graphs for agentic workflows, named after the Mayan goddess of weaving |
+| 🔍 **[perplexity-opencode]**                                                   | OpenCode plugin for Perplexity AI web search                                   |
+| 🎬 **[movie-effect]** / **[book-effect]**                                      | Effect-powered API SDKs                                                        |
+| 🗺️ **[geohints]**                                                              | GeoGuessr hints/clues built with Qwik                                          |
+| 📚 **[tufte-typst]**                                                           | Typst template inspired by Edward Tufte's elegant book designs                 |
+| 🏠 **[dotfiles]**                                                              | Nix/Home-Manager + Chezmoi                                                     |
 
 ### Upcoming
 
@@ -63,7 +65,12 @@ Staff engineer building developer tools, distributed systems, and games.
 <!-- Reference links -->
 
 [subtitles]: https://github.com/kevinmichaelchen/subtitles
+[bird-rs]: https://github.com/kevinmichaelchen/bird-rs
+[replicate-images]: https://github.com/kevinmichaelchen/replicate-images
 [agent-chime]: https://github.com/kevinmichaelchen/agent-chime
+[agent-chime-rs]: https://github.com/kevinmichaelchen/agent-chime-rs
+[agent-chime-voicepack-spec]:
+  https://github.com/kevinmichaelchen/agent-chime-voicepack-spec
 [agent-republic]: https://github.com/kevinmichaelchen/agent-republic
 [pageindex-rs]: https://github.com/kevinmichaelchen/pageindex-rs
 [usage]: https://github.com/kevinmichaelchen/usage
