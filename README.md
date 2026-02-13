@@ -10,22 +10,23 @@ Newest first within each category. Public repos only.
 
 #### Agentic Systems
 
-| Project                             | Description                                                         |
-| ----------------------------------- | ------------------------------------------------------------------- |
-| 🎓 **[typopotamus]**                | Academic-only toolkit for inspecting and downloading web fonts      |
-| 📚 **[pliny]**                      | Autonomous recursive research agent for breadth-first synthesis     |
+| Project                                                                        | Description                                                                    |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| 🎓 **[typopotamus]**                                                           | Academic-only toolkit for inspecting and downloading web fonts                 |
+| 📚 **[pliny]**                                                                 | Autonomous recursive research agent for breadth-first synthesis                |
 | 🔔 **[agent-chime]** / **[agent-chime-rs]** / **[agent-chime-voicepack-spec]** | TTS notifications, Rust runtime, and voice-pack spec for agentic CLI workflows |
-| 🏛️ **[agent-republic]**             | Agent-first democratic orchestration for autonomous software agents |
+| 🏛️ **[agent-republic]**                                                        | Agent-first democratic orchestration for autonomous software agents            |
 
 #### CLI & Tooling
 
-| Project                   | Description                                                     |
-| ------------------------- | --------------------------------------------------------------- |
-| 🐦 **[bird-rs]**          | Fast X/Twitter CLI for reading and syncing tweets               |
-| 🎨 **[replicate-images]** | CLI for generating images from text prompts using Replicate     |
-| 🎬 **[subtitles]**        | Crash-safe Rust pipeline for multi-language subtitle generation |
-| 📄 **[pageindex-rs]**     | Vectorless RAG with hierarchical tree indices for PDFs/Markdown |
-| 🔃 **[repo-syncer]**      | Rust TUI for syncing GitHub forks with upstream                 |
+| Project                   | Description                                                               |
+| ------------------------- | ------------------------------------------------------------------------- |
+| ⭐ **[star-watch]**       | Sync GitHub star lists into SurrealDB with AI summaries and vector search |
+| 🐦 **[bird-rs]**          | Fast X/Twitter CLI for reading and syncing tweets                         |
+| 🎨 **[replicate-images]** | CLI for generating images from text prompts using Replicate               |
+| 🎬 **[subtitles]**        | Crash-safe Rust pipeline for multi-language subtitle generation           |
+| 📄 **[pageindex-rs]**     | Vectorless RAG with hierarchical tree indices for PDFs/Markdown           |
+| 🔃 **[repo-syncer]**      | Rust TUI for syncing GitHub forks with upstream                           |
 
 #### Workflow Utilities
 
@@ -106,6 +107,7 @@ Newest first within each category. Public repos only.
 [dotfiles]: https://github.com/kevinmichaelchen/dotfiles
 [pliny]: https://github.com/kevinmichaelchen/pliny
 [typopotamus]: https://github.com/kevinmichaelchen/typopotamus
+[star-watch]: https://github.com/kevinmichaelchen/star-watch
 [cel-typescript]: https://github.com/kevinmichaelchen/cel-typescript
 [pg-sequin-cdc-demo]: https://github.com/kevinmichaelchen/pg-sequin-cdc-demo
 [materialized-translations-poc]:
