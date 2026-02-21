@@ -39,12 +39,13 @@ Newest first within each category. Public repos only.
 
 #### SDKs & Long-Running
 
-| Project               | Description                                           |
-| --------------------- | ----------------------------------------------------- |
-| 📚 **[book-effect]**  | Effect-powered API SDK for book metadata APIs         |
-| 🎬 **[movie-effect]** | Effect-powered API SDK for movie and TV metadata APIs |
-| 🏠 **[dotfiles]**     | Nix/Home-Manager + Chezmoi                            |
-| 🗺️ **[geohints]**     | GeoGuessr hints/clues built with Qwik                 |
+| Project                 | Description                                                                                     |
+| ----------------------- | ----------------------------------------------------------------------------------------------- |
+| 📜 **[effect-history]** | A visual history of Effect — the TypeScript library for building robust, type-safe applications |
+| 📚 **[book-effect]**    | Effect-powered API SDK for book metadata APIs                                                   |
+| 🎬 **[movie-effect]**   | Effect-powered API SDK for movie and TV metadata APIs                                           |
+| 🏠 **[dotfiles]**       | Nix/Home-Manager + Chezmoi                                                                      |
+| 🗺️ **[geohints]**       | GeoGuessr hints/clues built with Qwik                                                           |
 
 ### Upcoming
 
@@ -102,6 +103,7 @@ Newest first within each category. Public repos only.
 [perplexity-opencode]: https://github.com/kevinmichaelchen/perplexity-opencode
 [movie-effect]: https://github.com/kevinmichaelchen/movie-effect
 [book-effect]: https://github.com/kevinmichaelchen/book-effect
+[effect-history]: https://github.com/kevinmichaelchen/effect-history
 [geohints]: https://github.com/kevinmichaelchen/geohints
 [tufte-typst]: https://github.com/kevinmichaelchen/tufte-typst
 [dotfiles]: https://github.com/kevinmichaelchen/dotfiles
